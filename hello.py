@@ -9,6 +9,6 @@ return total
 
 a = 2
 b = 6
-adsd.a+b
-
+for s in status :
+print s
   
