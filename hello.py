@@ -11,4 +11,4 @@ a = 2
 b = 6
 for s in status :
 print s
-  
+  if s ==2
