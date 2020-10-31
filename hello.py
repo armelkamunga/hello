@@ -1,6 +1,7 @@
 python.py
 hello word
 from math import *
+from opencv import *
 
 
 def add(a+b)
